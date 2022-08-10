@@ -14,7 +14,7 @@ Simple Shell is a Holberton School pair project. The general goal of the project
 
 ## Installation
 ```
-git clone https://github.com/patrickdeyoreo/simple_shell.git
+git clone https://github.com/KaymanSalz/simple_shell.git
 cd simple_shell
 gcc *.c -o hsh
 ```
@@ -200,5 +200,5 @@ handle commands with arguments
 - Your shell should take a file as a command line argument
 
 ## Authors
-* [Patrick Deyoreo](https://github.com/patrickdeyoreo)
-* [Banu Sapakova](https://github.com/banuaksom)
+* [Kayman](https://github.com/KaymanSalz)
+
